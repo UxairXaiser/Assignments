@@ -1,0 +1,47 @@
+body{
+	background-color:linen
+}
+h1{
+	color:blue
+}
+.header{
+	background-color:white;
+	text-align:left;
+	margin: auto;
+	width: 40%;
+	border: 3px solid green;
+	padding: 10px;
+}
+h2{
+	text-align: center;
+}
+.button{
+	text-align: center;
+	width: 100%;
+}
+
+input{
+	width:90%;
+	margin:2%;
+	padding:2px;
+}
+button{
+	border-radius: 10px;
+    background: #73AD21;
+	margin-left:3%;
+	border-color:#73AD21;
+	border-bottom-color:#73AD21;
+	height:30px;
+	margin-bottom:5px;
+	padding:2px;
+	margin-left:3%;
+	width:94%;
+	color:white;
+	
+	
+}
+textarea{
+	width:90%;
+	margin:2%;
+	padding:2px;
+}

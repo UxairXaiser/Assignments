@@ -1,0 +1,23 @@
+body{
+	
+	color: white;
+}
+button{
+	border: none;
+	background-color: #04AA6D;
+	color: white;
+	padding: 10px;
+	border-radius: 3px;
+}
+.hello{
+	padding-left: 10px;
+	padding-top: 1px;
+	background-color: black;
+	margin-bottom: 50%
+}
+.p1{
+	font-size:25px
+}
+p{
+	font-size:12px
+}
